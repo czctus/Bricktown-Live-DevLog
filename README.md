@@ -30,4 +30,5 @@ Sword.
 - 
 
 ## Removed
+- "all" For Item.
 - Carl, replaced with Kate.
