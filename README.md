@@ -1,7 +1,6 @@
 # Changelog
 
 # [V 2.0, Patch 1.2], Comes out by 2023??
-![Photo](.. /preview "Photo")
 
 ## Added
 - Event Command
